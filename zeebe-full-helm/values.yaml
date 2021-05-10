@@ -1,0 +1,7 @@
+global:
+  zeebe: "{{ .Release.Name }}-zeebe"
+
+tasklist:
+  enabled: false
+zeeqs:
+  enabled: false  

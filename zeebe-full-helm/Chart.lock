@@ -1,0 +1,18 @@
+dependencies:
+- name: zeebe-cluster-helm
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.214
+- name: zeebe-operate-helm
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.43
+- name: zeebe-zeeqs-helm
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.26
+- name: zeebe-tasklist-helm
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.13
+- name: ingress-nginx
+  repository: https://kubernetes.github.io/ingress-nginx
+  version: 3.19.0
+digest: sha256:7699da3c9db6ed74ceb3dfa8bb9479a95f578890d404d07db48f4b31370fc5a4
+generated: "2021-03-17T19:00:30.543374209Z"

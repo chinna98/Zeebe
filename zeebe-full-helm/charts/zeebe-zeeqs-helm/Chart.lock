@@ -1,0 +1,6 @@
+dependencies:
+- name: hazelcast
+  repository: https://hazelcast-charts.s3.amazonaws.com/
+  version: 3.5.0
+digest: sha256:babbf13de2c4e204defae2a92e0ef4850777dd7e412f10de5c6b806eed9e608e
+generated: "2021-03-17T18:56:56.707463721Z"
