@@ -1,2 +1,2 @@
 # Zeebe
-A sample hemo repo for zeebe/camunda worklow orchestartion system.
+A sample helm repo for zeebe/camunda worklow orchestartion system.
